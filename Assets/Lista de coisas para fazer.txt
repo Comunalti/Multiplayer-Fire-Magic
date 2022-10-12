@@ -1,0 +1,22 @@
+* o sistema de arma se verificar a mana 
+* refazer o sistema de arma (suportar diferentes balas)
+* fazer o sistema de delay entre tiros
+* fazer eventos quando o delay acaba
+* sistema para instanciar as balas
+* sistema para não deixar a bala spawnar dentro da parede
+* sistema de invulnerabilidade das balas novas (fazer eventos para informar o player)
+
+
+* sistema de coletaveis
+* sistema de escudo
+
+* pensar na arquitetura para netcode for gameobjects
+
+* colocar canvas flutuante na cabeça do player com nome e vida
+
+* lidar com a morte do player singler player (modular)
+
+* sistema de ui base menu
+
+* cutscene inicial
+* sistema de transição de cena
